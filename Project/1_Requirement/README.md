@@ -17,7 +17,7 @@ The purpose of this project is to provide an automated solution for Fence Protec
 ### High Level Requirements
 | Sl.No | ID | Requirements |
 |----|----|-----|
-| 1. | HLR1 | The device should sound an alarm or make noice of different frequency in case someone is trying to enter the fence |
+| 1. | HLR1 | The device should sound an alarm or make noise of different frequency in case someone is trying to enter the fence |
 | 2. | HLR2 | The device should turn the lights ON automatically at night |
 | 3. | HLR3 | The device should turn the lights OFF automatically at day break |
 
@@ -27,7 +27,7 @@ The purpose of this project is to provide an automated solution for Fence Protec
 | 1. | LLR1.1 | It should have threshold vibration setting |
 | 2. | LLR1.2 | It should sence the Vibrations |
 | 3. | LLR1.3 | It should check whether the threshold value of vibration is breched |
-| 4. | LLR1.4 | In case of a breach it should sound alarm or producing noice of required frequency |
+| 4. | LLR1.4 | In case of a breach it should sound alarm or producing noise of required frequency |
 | 5. | LLR2.1 | It should have threshold light value setting |
 | 6. | LLR2.2 | It should sense the amount of light |
 | 7. | LLR2.3 | It should checking whether the threshold value of light is breched  |
