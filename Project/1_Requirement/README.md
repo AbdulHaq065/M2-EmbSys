@@ -6,19 +6,36 @@ The purpose of this project is to provide an automated solution for Fence Protec
 ## Descrption
 * This device consist of various Sensors, Transducer and a Microcontroller. It uses LDR for detecting the amount of light and turns the lights on accordingly, and in the same way Vibration sensor detects the vibrations and makes the required noise for protecting the Fence. </br> </br>
 ### Sensors: 
-* **Light Dependent Resistor (LDR):** LDR is a ia a type pf resistor which depends on the amount of light in the surrounding. Here in this project it is used to detect the amount of light in the surrounding and send the readings to the controller.
-* **Vibration Sensor:** It is the type of sensor which works on Mechanical principles for calculating the amount of light in the surrounding. Here in this project it is used to sense the vibrations of the fence and send the readings to the controller.
+* **Light Dependent Resistor (LDR):** 
+![LDR_20MM](https://user-images.githubusercontent.com/98849909/155838596-d2e01716-8225-4306-8edb-1cda5b462ed9.jpg)
+
+LDR is a ia a type pf resistor which depends on the amount of light in the surrounding. Here in this project it is used to detect the amount of light in the surrounding and send the readings to the controller.
+</br></br>
+* **Vibration Sensor:** 
+![SW-420-sensor](https://user-images.githubusercontent.com/98849909/155838635-7ee3c3f6-fd35-4c04-8877-db06580b9939.jpg)
+
+It is the type of sensor which works on Mechanical principles for calculating the amount of light in the surrounding. Here in this project it is used to sense the vibrations of the fence and send the readings to the controller.
+</br></br>
 ### Transducer:
 
-* **Light-Emitting Diode(LED):**  It is used for emitting light when electricity is provided to it. Here in this project it is used to produce Light.
+* **Light-Emitting Diode(LED):** </br></br>
+![images](https://user-images.githubusercontent.com/98849909/155838699-bce9333d-0159-4854-b271-95a7ebc67341.jpg)
 
-#### Pseudo Actuator 
-* **Speaker (piezoelectric):** It is a Piezoelectric device which produces sound when exposed to electric signals of different frequency. Here it is used to produce sound of different frequency as required. Many a times speakers are also regarded as actuators as they performs action of produsing sound/noise.
+ It is used for emitting light when electricity is provided to it. Here in this project it is used to produce Light in a prototype.
+</br></br>
+### Pseudo Actuator 
+* **Speaker (piezoelectric):** </br></br>
+![download](https://user-images.githubusercontent.com/98849909/155838713-c17432d3-9e2d-49fd-99dd-43c421a24235.jpg)
 
+It is a Piezoelectric device which produces sound when exposed to electric signals of different frequency. Here it is used to produce sound of different frequency as required. Many a times speakers are also regarded as actuators as they performs action of produsing sound/noise.
+</br></br>
 ### Coontroller
 * For the task which is to be done in this project do not require any complex calculation and hence can go with any cost efficient microcontroller, and because we are adviced to use Arduino 328, i am using Arduino 328.
-* **Arduino 328:** It is a High performance yet Low power consumption processor which comes with Advanced RISC architecture.
+* **Arduino 328:**
+![SW-420-sensor](https://user-images.githubusercontent.com/98849909/155838728-f5f8c63c-b0a2-443c-a256-8f7eab62b0e5.jpg)
 
+ It is a High performance yet Low power consumption processor which comes with Advanced RISC architecture.
+</br></br>
 ## Requirement Modelling
 
 ### High Level Requirements
