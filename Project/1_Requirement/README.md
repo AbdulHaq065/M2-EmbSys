@@ -15,6 +15,10 @@ The purpose of this project is to provide an automated solution for Fence Protec
 #### Pseudo Actuator 
 * **Speaker (piezoelectric):** It is a Piezoelectric device which produces sound when exposed to electric signals of different frequency. Here it is used to produce sound of different frequency as required. Many a times speakers are also regarded as actuators as they performs action of produsing sound/noise.
 
+### Coontroller
+* For the task which is to be done in this project do not require any complex calculation and hence can go with any cost efficient microcontroller, and because we are adviced to use Arduino 328, i am using Arduino 328.
+* **Arduino 328:** It is a High performance yet Low power consumption processor which comes with Advanced RISC architecture.
+
 ## Requirement Modelling
 
 ### High Level Requirements
