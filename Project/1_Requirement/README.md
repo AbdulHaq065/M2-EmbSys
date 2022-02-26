@@ -9,8 +9,11 @@ The purpose of this project is to provide an automated solution for Fence Protec
 * **Light Dependent Resistor (LDR):** LDR is a ia a type pf resistor which depends on the amount of light in the surrounding. Here in this project it is used to detect the amount of light in the surrounding and send the readings to the controller.
 * **Vibration Sensor:** It is the type of sensor which works on Mechanical principles for calculating the amount of light in the surrounding. Here in this project it is used to sense the vibrations of the fence and send the readings to the controller.
 ### Transducer:
-* **Speaker (piezoelectric):** It is a Piezoelectric device which produces sound when exposed to electric signals of different frequency. Here it is used to produce sound of different frequency as required. 
+
 * **Light-Emitting Diode(LED):**  It is used for emitting light when electricity is provided to it. Here in this project it is used to produce Light.
+
+#### Pseudo Actuator 
+* **Speaker (piezoelectric):** It is a Piezoelectric device which produces sound when exposed to electric signals of different frequency. Here it is used to produce sound of different frequency as required. Many a times speakers are also regarded as actuators as they performs action of produsing sound/noise.
 
 ## Requirement Modelling
 
@@ -35,9 +38,11 @@ The purpose of this project is to provide an automated solution for Fence Protec
 | 9. | LLR3.1 | It should check whether the amount of light is above the threshold value of light |
 |10. | LLR3.2 | It should Turn the lights OFF |
 
+</br></br> 
 ## Block Diagram
 ![FUNCTIONAL DIAGRAM](https://user-images.githubusercontent.com/98849909/154833285-e81345b5-6735-417b-b39c-d2832497a930.png)
 
+</br></br> 
 ## SWOT Analysis
 ![Algorithm flowchart example (1)](https://user-images.githubusercontent.com/98849909/155700832-9f512a1b-0d49-4f1c-83c6-64d57180f193.png)
 
