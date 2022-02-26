@@ -6,11 +6,11 @@ The purpose of this project is to provide an automated solution for Fence Protec
 ## Descrption
 * This device consist of various Sensors, Transducer and a Microcontroller. It uses LDR for detecting the amount of light and turns the lights on accordingly, and in the same way Vibration sensor detects the vibrations and makes the required noise for protecting the Fence. </br> </br>
 ### Sensors: 
-* **Light Dependent Resistor (LDR):** Used to detect the amount of light in the surrounding.
-* **Vibration Sensor:** Used to sense the vibrations of the fence.
+* **Light Dependent Resistor (LDR):** LDR is a ia a type pf resistor which depends on the amount of light in the surrounding. Here in this project it is used to detect the amount of light in the surrounding and send the readings to the controller.
+* **Vibration Sensor:** It is the type of sensor which works on Mechanical principles for calculating the amount of light in the surrounding. Here in this project it is used to sense the vibrations of the fence and send the readings to the controller.
 ### Transducer:
-* **Speaker (piezoelectric):** Used to produce Sound as required. 
-* **Light-Emitting Diode(LED):** Used to produce Light.
+* **Speaker (piezoelectric):** It is a Piezoelectric device which produces sound when exposed to electric signals of different frequency. Here it is used to produce sound of different frequency as required. 
+* **Light-Emitting Diode(LED):**  It is used for emitting light when electricity is provided to it. Here in this project it is used to produce Light.
 
 ## Requirement Modelling
 
