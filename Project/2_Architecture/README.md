@@ -2,6 +2,9 @@
 
 # Structural and Behavioral Diagrams
 
+## Block Diagram
+![FUNCTIONAL DIAGRAM](https://user-images.githubusercontent.com/98849909/154833285-e81345b5-6735-417b-b39c-d2832497a930.png)
+
 ## Black Box of Fence Protector
  ![image](https://user-images.githubusercontent.com/98849909/155719353-17bcf488-d166-4d64-bd58-65372658d2e3.png)
 
