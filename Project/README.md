@@ -1,5 +1,5 @@
 # FENCE PROTECTOR
-
+12c96a9919904d91bd3f41ab5183c90a
 # REQUIREMENT MODELLING 
 ## Abstract
 The purpose of this project is to provide an automated solution for Fence Protection. Guarding the area is generally done using manual workers which tends to be costly and not every one can afford to employ a watchman. That’s where our solution comes into picture, the device is fully automated and doesn’t require any assistance. The device work on various principles including piezoelectric effect, photoelectric effect and various other mechanical principles. The solution performs 2 basic operations, firstly it is responsible for detecting any disturbance in fence, as in if any one is trying to forcibly enter. It also comes an automatic Light system which turns itself on in darkness. The solution uses a vibration sensor which is used for sensing of the vibrations and hence sends the readings to controller which is preprogramed with a threshold value and as soon as the threshold value is breached the controller uses the speaker to make noise of desired frequency as preprogramed by the user. In same way it also uses LDR i.e., Light Dependent Resistor to sense the amount of light and sends those reading to the controller which compares it with the minimum light required as preprogramed by the user and turns the Lights ON and OFF accordingly.
