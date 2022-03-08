@@ -30,12 +30,9 @@ It is the type of sensor which works on Mechanical principles for calculating th
 It is a Piezoelectric device which produces sound when exposed to electric signals of different frequency. Here it is used to produce sound of different frequency as required. Many a times speakers are also regarded as actuators as they performs action of produsing sound/noise.
 </br></br>
 ### Coontroller
-* For the task which is to be done in this project do not require any complex calculation and hence can go with any cost efficient microcontroller, and because we are adviced to use Arduino 328, i am using Arduino 328.
-* **Arduino 328:**
-![SW-420-sensor](https://user-images.githubusercontent.com/98849909/155838728-f5f8c63c-b0a2-443c-a256-8f7eab62b0e5.jpg)
-
- It is a High performance yet Low power consumption processor which comes with Advanced RISC architecture.
-</br></br>
+* **Arduino UNO** <br/> 
+![download](https://user-images.githubusercontent.com/98849909/157196531-61246171-8d8e-4634-b2d0-f96ba6f30751.png)
+* For the task which is to be done in this project do not require any complex calculation and hence can go with any cost efficient microcontroller, we have used Arduino UNO microcontroller board which comes with ATmega328P. It operates on 5V of operating voltage and consists of 32 KB Flash Memory.
 ## Requirement Modelling
 
 ### High Level Requirements
